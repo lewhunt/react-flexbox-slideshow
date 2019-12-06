@@ -16,9 +16,9 @@ Clone the repo to your local machine, or download it and unzip it.
 Navigate into your new site’s directory, install dependencies then run gatsby:
 
 - Install dependencies: `npm install`
-- Development mode: `$ gatsby develop`
-- Production build: `$ gatsby build`
-- Production mode: `$ gatsby serve`
+- Development mode: `gatsby develop`
+- Production build: `gatsby build`
+- Production mode: `gatsby serve`
 
 Development mode will run site at http://localhost:8000/
 Production mode will run site at http://localhost:9000/
