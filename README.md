@@ -1,5 +1,5 @@
 # React Flexbox Slideshow
-A React slideshow component running in GatsbyJS using Flexbox and Styled Components
+A React looping slideshow component running in GatsbyJS using Flexbox and Styled Components
 
 ## Demo
 https://lewhunt.github.io/react-flexbox-slideshow/
